@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shiva Jayanth 👋
 
-<!--
-**Jayxnth/Jayxnth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cybersecurity student (EIT Digital double degree: ELTE Budapest and University of Turku), graduating July 2027.
+Before my master's I spent six years at HCLTech running endpoint security and compliance for Microsoft's own environment.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security operations:** Azure Sentinel, KQL, incident triage, vulnerability tracking, Zero Trust
+- **Cloud and identity:** Azure Policy, Microsoft Entra ID, RBAC, PIM, Intune
+- **Automation:** Python, PowerShell, Bash, Terraform, Microsoft Graph API, Azure DevOps
+- **Offensive security (coursework labs):** Nmap, Nessus, Burp Suite, Metasploit, Wireshark, Kali Linux
+- **Currently:** Digital Forensics (university course) and preparing for Microsoft SC-200
+
+## Project
+
+**[Sentinel-Chain](https://github.com/Jayxnth/Sentinel-Chain)** is an AI-powered log intelligence platform, a university capstone built by a team of five.
+I built the AI core: log embedding and retrieval (LangChain, HuggingFace, ChromaDB), Gemini threat reports and the natural-language query pipeline.
+
+... More in my local machines but soon be here!!
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/jayanthshiva-692690148)
